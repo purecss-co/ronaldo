@@ -1,4 +1,4 @@
-# PureCSS - Responsive Cristiano Ronaldo
+# PureCSS - Cristiano Ronaldo
 
 Responsive Cristiano Ronaldo using HTML and CSS
 
